@@ -13,6 +13,6 @@ I am a fourth-year Ph.D student interested in Syntax, Computational Linguistics 
 **News**
 
 {% for post in site.posts %}
-  {% include archive-single.html %}
+  {% include archive-single-talk.html %}
 {% endfor %}
 
