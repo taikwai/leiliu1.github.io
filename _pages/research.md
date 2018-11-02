@@ -13,12 +13,12 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% include archive-single-talk.html %}
+  {% include archive-single.html %}
 {% endfor %}
 
 <hr>
 
-**Presentations**
+<b>Presentations</b>
 
 {% if site.talkmap_link == true %}
 
