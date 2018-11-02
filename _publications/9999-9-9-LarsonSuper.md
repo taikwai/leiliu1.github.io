@@ -1,8 +1,8 @@
 ---
 title: "Superiorty and Scope Freezing"
 collection: publications
-permalink: /publication/Forthcoming-LarsonSuper
-date: Forthcoming
+permalink: /publication/9999-9-9-LarsonSuper
+date: 9999-9-9
 venue: 'Linguistic Inquiry'
 citation: 'Richard Larson, Svitlana Antonyuk and Lei Liu. (forthcoming). &quot;Superiorty and Scope Freezing&quot;.<i>Linguistic Inquiry</i>'
 ---
