@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-#### Instructor
+## Instructor
 
 
 - Fall 2018  WAE 194 Advanced Writing Academic English
@@ -15,7 +15,7 @@ author_profile: true
 - Summer 2016  LIN 426/532 Special Topics in Linguistics: Second Language Acquisition 
      
 
-#### Teaching assistant
+## Teaching assistant
 
 
 - Spring 2018  LIN 355 Language and Life in China 
