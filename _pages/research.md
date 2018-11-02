@@ -19,5 +19,5 @@ author_profile: true
 **Presentations**
 
 {% for post in site.talks reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-talk.html %}
 {% endfor %}
