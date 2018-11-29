@@ -6,4 +6,4 @@ tags:
   - syntax
 ---
 
-I am presenting a poster on Minimalist parsing of heavy NP shift. 
+I am presenting a poster on Minimalist parsing of heavy NP shift at [PACLIC32](http://www.cbs.polyu.edu.hk/2018paclic/index.php). 
